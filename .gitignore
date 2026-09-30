@@ -1,0 +1,17 @@
+.idea/
+.DS_Store
+Thumbs.db
+*.iml
+*.log
+.env
+.env.*
+!.env.example
+server/target/
+client/node_modules/
+client/dist/
+mysql/data/
+mysql/logs/
+redis/data/
+qdrant/data/
+minio/data/
+rocketmq-logs/
