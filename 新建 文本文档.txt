@@ -1,4 +1,0 @@
-cd /mnt/d/work/projects/DOVideo-AI
-
-./scripts/dev-up.sh
-./scripts/dev-server.sh
